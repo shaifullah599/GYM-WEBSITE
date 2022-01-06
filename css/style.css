@@ -1,0 +1,547 @@
+/* sec- start */
+
+body{
+padding: 0px;
+margin: 0px;
+
+}
+
+
+.sec-1 .navbar{
+    background-color: #211f1f;
+    width: 100%;
+    height: 110px;
+}
+
+.navbar-brand img{
+    height: 150px;
+    padding: 20px;
+}
+
+.sec-1 .nav-link{
+    color: white !important;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* sec-1 end */
+
+/* sec-2 start */
+
+.sec-2{
+    background-image: url(../img/banner/bnr-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+
+
+
+
+.sec-2 h1{
+    font-size: 95px;
+    color: white !important;
+    font-weight: 900;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+
+}
+
+.sec-2 span{
+    
+    color: #68B5FB !important;
+    
+
+}
+
+
+.sec-2 p{
+    font-size: 44px;
+    color: white !important;
+    line-height: 60px;
+   
+}
+
+.sec-2 img{
+    height: 400px;
+   width: 50%;
+   border: 10px solid white;
+}
+
+
+
+/* sec-2 end */
+
+
+/* sec-3 start */
+
+.sec-3{
+  background-color: #37477E;
+  
+  }
+  
+
+.sec-3 h1{
+  
+font-size: 50px;
+font-weight: 600;
+padding: 50px;
+text-align: center;
+color: white !important;
+
+  }
+  
+.sec-3-dgn{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.sec-3 img{
+ padding-left: 20px;
+ padding-right: 20px;
+ margin: auto !important;
+ height: auto;
+ width: 453px;
+padding-top: 50px;
+}
+
+
+.sec-3 button{
+    width: 200px;
+    padding: 5px;
+    background-color: #48A7FF;
+    margin: auto;
+    color: white !important;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+
+
+/* sec-3 end */
+
+
+
+/* sec-4 start */
+
+.sec-4{
+    background-image: url(../img/banner/bnr-2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+
+
+
+.sec-4-dgn-1{
+    background-image: url(../img/banner/Character-01-high-resolution\ 1.png);
+    border: 5px solid white;
+border-radius: 50%;
+height: 300px;
+width: 300px;
+background-size: contain;
+margin-right: 100px;
+}
+
+
+
+.sec-4-dgn-2{
+    background-image: url(../img/banner/Character-02\ 1.png);
+    border: 5px solid white;
+border-radius: 50%;
+height: 300px;
+width: 300px;
+background-size: contain;
+
+}
+
+
+.sec-4-dgn-3{
+    background-image: url(../img/banner/character-3.jpg);
+    border: 5px solid white;
+border-radius: 50%;
+height: 300px;
+width: 300px;
+background-size: contain;
+}
+
+
+
+
+
+
+
+
+.sec-4 h1{
+    font-size: 50px;
+    font-weight: 600;
+    padding: 20px 0px;
+text-align: center;
+color: white;
+position: relative;
+top: 0px;
+left: -60px;
+}
+
+.sec-4 hr{
+  width: 130px;
+margin: auto;
+height: 5px;
+color: white !important;
+background-color: white !important;
+}
+
+
+
+
+.sec-4-ftr button{
+    width: 200px;
+    padding: 5px;
+    background-color: #48A7FF;
+    margin: auto;
+    color: white !important;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+
+.sec-4-ftr{
+    display: flex;
+    justify-content: center;
+    background-color: #37477E;
+}
+
+
+/* sec-4 end */
+
+
+
+/* sec-5 start */
+
+.sec-5{
+    background-image: url(../img/banner/chart-baner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  height: 1000px;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 100px;
+    
+}
+
+
+
+
+        .sec-5 h2{
+            font-size: 50px;
+            font-weight: 600;
+          
+        text-align: center;
+        color: white;
+        position: absolute;
+        top: -70px;
+        left: -113px;
+        }
+        
+        .sec-5  hr{
+          width: 195px;
+        margin: auto;
+        height: 5px;
+        color: white !important;
+        background-color: white !important;
+        }
+        
+/* sec-5 end */
+
+
+/* sec-6 start */
+
+.sec-6{
+    background-image: url(../img/banner/foterbnr.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    text-align: center;
+    color: white !important;
+}
+
+
+.sec-6 h1{
+    text-align: center;
+    color: white !important;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+
+.sec-6 h2{
+    text-align: center;
+    color: white !important;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+
+.sec-6 h3{
+    text-align: center;
+    color: white !important;
+    font-weight: 900;
+    font-size: 30px;
+}
+.sec-6 h4{
+    text-align: center;
+    color: white !important;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+
+
+
+
+.sec-6 .box-1{
+    margin-top: 50px;
+}
+
+.sec-6 .box-1 span{
+    color: #2A98FE
+}
+
+
+.sec-6  hr{
+    width: 195px;
+  margin: auto;
+  height: 5px;
+  color: white !important;
+  background-color: white !important;
+  }
+  
+
+
+/* sec-6 end */
+
+/* sec-7 start */
+
+.sec-7{
+    padding: 100px 100px;
+    background-color: #333333;
+    color: white !important;
+}
+
+.sec-7-box-1 h1{
+
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.sec-7-box-2 img{
+    margin: auto;
+}
+
+.sec-7-box-2 .insidbox img{
+    height: 50px;
+    width: 50px;
+    
+}
+
+
+/* sec-7 end */
+
+/* sec-8 start */
+
+.sec-8{
+    background-color: #1B1B1B;
+    padding: 50px;
+}
+
+
+.sec-8 h1{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+/* sec-8 end */
+
+
+/* terms page start */
+
+.terms-page{
+    background-image: url(../img/banner/foterbnr.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+color: white !important;
+padding: 100px;
+}
+
+.terms-page h1{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    padding: 50px;
+    
+}
+
+
+.terms-page h2{
+    font-size: 25px;
+    font-weight: 300;
+    text-align: left;
+    padding: 20px;
+    
+}
+
+.terms-page h3{
+    font-size: 25px;
+    font-weight: 300;
+    text-align: left;
+    padding: 20px;
+    
+}
+
+
+.terms-page p{
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    padding: 20px;
+    
+}
+
+
+
+
+
+/* terms page end */
+
+
+/* contact page start */
+
+.Contact-page{
+    padding: 50px;
+    background-image: url(../img/banner/foterbnr.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white !important;
+}
+
+.Contact-page h1{
+    font-size: 53px;
+    font-weight: 900;
+    padding: 30px;
+    margin-left: 180px;
+
+}
+
+.Contact-page label{
+    font-size: 30px;
+    font-weight: 900;
+   margin-right: 20px;
+   width: 155px;
+}
+
+.Contact-page input{
+   
+    width: 500px;
+    margin-left: 20px;
+    border: 3px solid #9EEC2A;
+   border-radius: 5px;
+}
+
+.contact-page-design{
+
+    justify-content: center;
+    margin-top: 30px;
+   
+}
+
+
+
+
+
+
+
+
+.Contact-page textarea{
+   
+    width: 500px;
+   margin-top: 50px;
+    border: 3px solid #9EEC2A;
+   border-radius: 5px;
+   margin-left: 19px;
+}
+
+#msg{
+   position: relative;
+   left: 176px;
+}
+
+
+.Contact-page button{
+    padding: 5px 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #6daa12;
+    border: none !important;
+    border-radius: 10px;
+    color: white !important;
+    font-weight: 600;
+    margin-left: 175px;
+}
+
+
+
+/* contact page end */
+
+
+/* story page start */
+
+.story-page{
+    background-image: url(../img/banner/foterbnr.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px;
+    color: white !important;
+}
+
+.story-page h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.story-page p{
+    
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .story-page h1{
+
+    font-size: 50px;
+    font-weight: 900;
+   
+  }
+
+
+/* story page end */
+
+
